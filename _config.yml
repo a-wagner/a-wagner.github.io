@@ -20,8 +20,7 @@
 
 title: Andrew Wagner
 email: ahwagner at ccs dot neu dot edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Andrew Wagner is a Computer Science PhD Student at Northeastern University.
+description: ""
 # baseurl: "" # the subpath of your site, e.g. /blog
 domain: www.andrewwagner.io
 url: https://www.andrewwagner.io # the base hostname & protocol for your site, e.g. http://example.com

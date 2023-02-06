@@ -1,0 +1,46 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+![Andrew Wagner](assets/pic.png){:class="resp-img"}{:height="auto"}{:width="200"}{:style="border-radius:50%"}
+
+
+I'm a PhD student studying programming languages with 
+[Amal Ahmed][amal] in the [Programming Research Laboratory][prl] at [Northeastern University][khoury].
+Previously, I graduated from [Brown University][brown], 
+where I was advised by [Shriram Krishnamurthi][shriram] and [Tim Nelson][tim].
+I'm broadly interested in language-based security with an eye toward language interoperability and cryptography.
+{:style="text-align: justify"}
+
+**email:** ahwagner at ccs.neu.edu
+
+<br style="clear: both">
+
+## Publications
+
+- [Adversary Safety by Construction in a Language of Cryptographic Protocols.][advsafety]
+
+  Timothy M Braje, Alice R Lee, **Andrew Wagner**, Benjamin Kaiser, Daniel Park, Martine Kalke, Robert K Cunningham, Adam Chlipala. 2022.
+  In *IEEE 35th Computer Security Foundations Symposium (CSF 2022)*.
+- [Semantic soundness for language interoperability.][seminterop]
+
+  Daniel Patterson, Noble Mushtak, **Andrew Wagner**, and Amal Ahmed. 2022.
+  In *Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI 2022)*.
+- [Solver-Aided Multi-Party Configuration.][mpconfig]
+
+  Kevin Dackow, **Andrew Wagner**, Tim Nelson, Shriram Krishnamurthi, and Theophilus A. Benson. 2020.
+  In *Proceedings of the 19th ACM Workshop on Hot Topics in Networks (HotNets '20)*.
+
+[amal]: https://ccs.neu.edu/~amal/
+[khoury]: https://www.khoury.northeastern.edu/
+[prl]: https://prl.khoury.northeastern.edu/
+[brown]: https://cs.brown.edu/
+[shriram]: https://cs.brown.edu/~sk/
+[tim]: https://cs.brown.edu/people/tbn/
+
+[mpconfig]: https://doi.org/10.1145/3422604.3425944
+[seminterop]: https://doi.org/10.1145/3519939.3523703
+[advsafety]: https://doi.org/10.1109/CSF54842.2022.9919638

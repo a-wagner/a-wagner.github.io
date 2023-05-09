@@ -23,8 +23,11 @@ I'm broadly interested in language-based security with an eye toward language in
 
 - [Adversary Safety by Construction in a Language of Cryptographic Protocols.][advsafety]
 
+  [*Recipient of the MIT Lincoln Laboratory 2022 Best Paper Award.*][advsafety-award]
+
   Timothy M Braje, Alice R Lee, **Andrew Wagner**, Benjamin Kaiser, Daniel Park, Martine Kalke, Robert K Cunningham, Adam Chlipala. 2022.
   In *IEEE 35th Computer Security Foundations Symposium (CSF 2022)*.
+  
 - [Semantic soundness for language interoperability.][seminterop]
 
   Daniel Patterson, Noble Mushtak, **Andrew Wagner**, and Amal Ahmed. 2022.
@@ -44,3 +47,4 @@ I'm broadly interested in language-based security with an eye toward language in
 [mpconfig]: https://doi.org/10.1145/3422604.3425944
 [seminterop]: https://doi.org/10.1145/3519939.3523703
 [advsafety]: https://doi.org/10.1109/CSF54842.2022.9919638
+[advsafety-award]: https://www.ll.mit.edu/about/awards-recognition/best-paper-best-invention-awards

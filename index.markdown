@@ -34,7 +34,8 @@ I'm broadly interested in language-based security with an eye toward language in
   
 - [Semantic soundness for language interoperability.][seminterop]  
   Daniel Patterson, Noble Mushtak, **Andrew Wagner**, Amal Ahmed.  
-  *PLDI 2022.*
+  *PLDI 2022.*  
+  [*Appendix.*][seminterop-apdx]
 
 - [Solver-Aided Multi-Party Configuration.][mpconfig]  
   Kevin Dackow, **Andrew Wagner**, Tim Nelson, Shriram Krishnamurthi, Theophilus A. Benson.  
@@ -49,6 +50,7 @@ I'm broadly interested in language-based security with an eye toward language in
 
 [mpconfig]: https://doi.org/10.1145/3422604.3425944
 [seminterop]: https://doi.org/10.1145/3519939.3523703
+[seminterop-apdx]: assets/papers/sem-interop-apdx.pdf
 [advsafety]: https://doi.org/10.1109/CSF54842.2022.9919638
 [advsafety-award]: https://www.ll.mit.edu/about/awards-recognition/best-paper-best-invention-awards
 [linktype]: assets/papers/sem-encap-link-types.pdf

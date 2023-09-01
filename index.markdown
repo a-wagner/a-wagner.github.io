@@ -15,7 +15,8 @@ where I was advised by [Shriram Krishnamurthi][shriram] and [Tim Nelson][tim].
 I'm broadly interested in language-based security with an eye toward language interoperability and cryptography.
 {:style="text-align: justify"}
 
-**email:** ahwagner at ccs.neu.edu
+**email:** ahwagner at ccs.neu.edu  
+**pronouns:** he/him/his
 
 <br style="clear: both">
 

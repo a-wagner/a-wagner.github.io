@@ -21,21 +21,24 @@ I'm broadly interested in language-based security with an eye toward language in
 
 ## Publications
 
-- [Adversary Safety by Construction in a Language of Cryptographic Protocols.][advsafety]
+- [Semantic Encapsulation using Linking Types.][linktype]  
+  Daniel Patterson, **Andrew Wagner**, Amal Ahmed.  
+  *TyDe 2023*.  
+  [*Appendix.*][linktype-apdx]
 
+- [Adversary Safety by Construction in a Language of Cryptographic Protocols.][advsafety]  
+  Timothy M. Braje, Alice R. Lee, **Andrew Wagner**, Benjamin Kaiser,
+  Daniel Park, Martine Kalke, Robert K. Cunningham, Adam Chlipala.  
+  *CSF 2022.*  
   [*Recipient of the MIT Lincoln Laboratory 2022 Best Paper Award.*][advsafety-award]
-
-  Timothy M Braje, Alice R Lee, **Andrew Wagner**, Benjamin Kaiser, Daniel Park, Martine Kalke, Robert K Cunningham, Adam Chlipala. 2022.
-  In *IEEE 35th Computer Security Foundations Symposium (CSF 2022)*.
   
-- [Semantic soundness for language interoperability.][seminterop]
+- [Semantic soundness for language interoperability.][seminterop]  
+  Daniel Patterson, Noble Mushtak, **Andrew Wagner**, Amal Ahmed.  
+  *PLDI 2022.*
 
-  Daniel Patterson, Noble Mushtak, **Andrew Wagner**, and Amal Ahmed. 2022.
-  In *Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI 2022)*.
-- [Solver-Aided Multi-Party Configuration.][mpconfig]
-
-  Kevin Dackow, **Andrew Wagner**, Tim Nelson, Shriram Krishnamurthi, and Theophilus A. Benson. 2020.
-  In *Proceedings of the 19th ACM Workshop on Hot Topics in Networks (HotNets '20)*.
+- [Solver-Aided Multi-Party Configuration.][mpconfig]  
+  Kevin Dackow, **Andrew Wagner**, Tim Nelson, Shriram Krishnamurthi, Theophilus A. Benson.  
+  *HotNets 2020.*
 
 [amal]: https://ccs.neu.edu/~amal/
 [khoury]: https://www.khoury.northeastern.edu/
@@ -48,3 +51,7 @@ I'm broadly interested in language-based security with an eye toward language in
 [seminterop]: https://doi.org/10.1145/3519939.3523703
 [advsafety]: https://doi.org/10.1109/CSF54842.2022.9919638
 [advsafety-award]: https://www.ll.mit.edu/about/awards-recognition/best-paper-best-invention-awards
+[linktype]: assets/papers/sem-encap-link-types.pdf
+[linktype-apdx]: assets/papers/sem-encap-link-types-apdx.pdf
+
+

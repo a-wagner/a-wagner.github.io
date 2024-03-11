@@ -22,6 +22,11 @@ I'm broadly interested in language-based security with an eye toward language in
 
 ## Publications
 
+- [Forge: A Tool and Language for Teaching Formal Methods.][forge]  
+  Tim Nelson, Ben Greenman, Siddhartha Prasad, Tristan Dyer, Ethan Bove, Qianfan Chen, Charlie Cutting, Thomas Del Vecchio,
+  Sidney LeVine, Julianne Rudner, Benjamin Ryjikov, Alexander Varga, **Andrew Wagner**, Luke West, Shriram Krishnamurthi  
+  *OOPSLA 2024.*
+  
 - [Semantic Encapsulation using Linking Types.][linktype]  
   Daniel Patterson, **Andrew Wagner**, Amal Ahmed.  
   *TyDe 2023*.  
@@ -56,5 +61,6 @@ I'm broadly interested in language-based security with an eye toward language in
 [advsafety-award]: https://www.ll.mit.edu/about/awards-recognition/best-paper-best-invention-awards
 [linktype]: assets/papers/sem-encap-link-types.pdf
 [linktype-apdx]: assets/papers/sem-encap-link-types-apdx.pdf
+[forge]: #
 
 

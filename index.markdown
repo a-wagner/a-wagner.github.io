@@ -61,6 +61,6 @@ I'm broadly interested in language-based security with an eye toward language in
 [advsafety-award]: https://www.ll.mit.edu/about/awards-recognition/best-paper-best-invention-awards
 [linktype]: assets/papers/sem-encap-link-types.pdf
 [linktype-apdx]: assets/papers/sem-encap-link-types-apdx.pdf
-[forge]: #
+[forge]: assets/papers/forge.pdf
 
 

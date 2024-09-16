@@ -1,0 +1,15 @@
+- title: "Semantic Typing and Separation Logic: A Tutorial"
+  venue: "PRL Seminar, Northeastern University, February 2024"
+  links:
+    - name: "Slides"
+      url: "assets/slides/sem-tech-tut-prl.pdf"
+- title: "STL3: Toward Security via Free Theorems in a Session-Typed Linear Language with Locations"
+  venue: "Dagstuhl Seminar 24051, February 2024"
+  links:
+    - name: "Slides"
+      url: "assets/slides/stl3-dagstuhl.pdf"
+- title: "All the Binaries Together"
+  venue: "Software Day, Northeastern University, September 2023"
+  links:
+    - name: "Slides"
+      url: "assets/slides/all-bin-tog-neusd.pdf"

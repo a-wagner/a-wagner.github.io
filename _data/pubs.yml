@@ -1,0 +1,84 @@
+- title: "Realistic Realizability: Specifying ABIs You Can Count On"
+  authors: "Andrew Wagner, Zachary Eisbach, Amal Ahmed"
+  venue: "OOPSLA 2024"
+  links:
+    - name: "DOI"
+      url: "https://doi.org/10.1145/3689755"
+    - name: "Preprint"
+      url: "assets/papers/real-real.pdf"
+    - name: "Appendix"
+      url: "assets/papers/real-real-apdx.pdf"
+- title: "Forge: A Tool and Language for Teaching Formal Methods"
+  authors: >-
+    Tim Nelson, Ben Greenman, Siddhartha Prasad,
+    Tristan Dyer, Ethan Bove, Qianfan Chen,
+    Charlie Cutting, Thomas Del Vecchio, Sidney LeVine,
+    Julianne Rudner, Benjamin Ryjikov, Alexander Varga,
+    Andrew Wagner, Luke West, Shriram Krishnamurthi
+  venue: "OOPSLA 2024"
+  links:
+    - name: "DOI"
+      url: "https://doi.org/10.1145/3649833"
+    - name: "Preprint"
+      url: "assets/papers/forge.pdf"
+    - name: "Artifact"
+      url: "https://forge-fm.org/"
+- title: "An Incremental Approach to the Semantics of Borrowing"
+  authors: "Brianna Marshall, Andrew Wagner, John Li, Olek Gierczak, Amal Ahmed"
+  venue: "HOPE 2024"
+  links:
+    - name: "Extended Abstract"
+      url: "assets/papers/incr-brw-hope.pdf"
+- title: "All the Binaries Together: A Semantic Approach to Application Binary Interfaces"
+  authors: "Andrew Wagner, Amal Ahmed"
+  venue: "PriSC 2024"
+  links:
+    - name: "Extended Abstract"
+      url: "assets/papers/all-bin-tog.pdf"
+    - name: "Talk"
+      url: "https://www.youtube.com/watch?v=_fLT2hQMvi8"
+    - name: "Slides"
+      url: "assets/slides/all-bin-tog-slides.pdf"
+- title: "Semantic Encapsulation using Linking Types"
+  authors: Daniel Patterson, Andrew Wagner, Amal Ahmed
+  venue: "TyDe 2023"
+  links:
+    - name: "DOI"
+      url: "https://doi.org/10.1145/3609027.3609405"
+    - name: "Preprint"
+      url: "assets/papers/link-types.pdf"
+    - name: "Appendix"
+      url: "assets/papers/link-types-apdx.pdf"
+- title: "Adversary Safety by Construction in a Language of Cryptographic Protocols"
+  authors: >-
+    Timothy M. Braje, Alice R. Lee, Andrew Wagner,
+    Benjamin Kaiser, Daniel Park, Martine Kalke,
+    Robert K. Cunningham, Adam Chlipala
+  venue: "CSF 2022"
+  links:
+    - name: "DOI"
+      url: "https://doi.org/10.1109/CSF54842.2022.9919638"
+    - name: "Preprint"
+      url: "assets/papers/adv-safety.pdf"
+    - name: "Artifact"
+      url: "https://github.com/MIT-LL/spicy"
+    - name: "MIT Lincoln Laboratory 2022 Best Paper Award"
+      url: "https://www.ll.mit.edu/about/awards-recognition/best-paper-best-invention-awards"
+- title: "Semantic Soundness for Language Interoperability"
+  authors: "Daniel Patterson, Noble Mushtak, Andrew Wagner, Amal Ahmed"
+  venue: "PLDI 2022"
+  links:
+    - name: "DOI"
+      url: "https://doi.org/10.1145/3519939.3523703"
+    - name: "Preprint"
+      url: "assets/papers/sem-interop.pdf"
+    - name: "Appendix"
+      url: "assets/papers/sem-interop-apdx.pdf"
+- title: "Solver-Aided Multi-Party Configuration"
+  authors: "Kevin Dackow, Andrew Wagner, Tim Nelson, Shriram Krishnamurthi, Theophilus A. Benson"
+  venue: "HotNets 2020"
+  links:
+    - name: "DOI"
+      url: "https://doi.org/10.1145/3422604.3425944"
+    - name: "Preprint"
+      url: "assets/papers/muppet.pdf"

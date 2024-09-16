@@ -1,0 +1,30 @@
+- course: "CS2500A: Fundamentals of Computer Science (Accelerated)"
+  where: "Northeastern University"
+  roles:
+    - role: "Graduate Teaching Assistant"
+      when:
+        - "F23"
+        - "F22"
+- course: "CS1730: Programming Languages"
+  where: "Brown University"
+  roles:
+    - role: "Head Teaching Assistant"
+      when:
+        - "F19"
+        - "F18"
+- course: "CS1950Y: Logic for Systems"
+  where: "Brown University"
+  roles:
+    - role: "Head Teaching Assistant"
+      when:
+        - "S19"
+    - role: "Teaching Assistant"
+      when:
+        - "S20"
+        - "S18"
+- course: "CS1951K: Algorithmic Game Theory"
+  where: "Brown University"
+  roles:
+    - role: "Teaching Assistant"
+      when:
+        - "S20"

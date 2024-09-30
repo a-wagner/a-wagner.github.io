@@ -21,7 +21,7 @@ I'm broadly interested in language-based security with an eye toward language in
 <br style="clear: both">
 
 <a id="pubs"></a>
-## Publications
+## Papers
 
 {% for pub in site.data.pubs %}
   - **{{ pub.title }}**  

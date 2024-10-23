@@ -8,6 +8,8 @@
       url: "assets/papers/real-real.pdf"
     - name: "Appendix"
       url: "assets/papers/real-real-apdx.pdf"
+    - name: "Slides"
+      url: "assets/slides/real-real-slides.pdf"
 - title: "Forge: A Tool and Language for Teaching Formal Methods"
   authors: >-
     Tim Nelson, Ben Greenman, Siddhartha Prasad,

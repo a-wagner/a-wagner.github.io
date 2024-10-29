@@ -1,3 +1,8 @@
+- title: "Realistic Realizability: Specifying ABIs You Can Count On"
+  venue: "POPV Seminar, Boston University, October 2024"
+  links:
+    - name: "Slides"
+      url: "assets/slides/real-real-bupopv.pdf"
 - title: "Semantic Typing and Separation Logic: A Tutorial"
   venue: "PRL Seminar, Northeastern University, February 2024"
   links:
